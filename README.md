@@ -1,4 +1,4 @@
-# Goodreads-data-analysis-in-Tableau-
+# Goodreads-data-analysis-in-Tableau
 
 • Explored Goodreads dataset, visualized trends and dash-boarded all the interesting insights.
 
