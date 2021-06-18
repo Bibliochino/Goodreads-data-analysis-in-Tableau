@@ -1,5 +1,9 @@
 # Goodreads-data-analysis-in-Tableau
 
-• Explored Goodreads dataset, visualized trends and dash-boarded all the interesting insights.
+•	Gathered Goodreads API data via Python and performed ETL and cleansing in Tableau.
 
-• Technologies Involved: Tableau 2019.4, Tableau Dashboard and Other Features
+•	Exploratory data analysis on Goodreads dataset identifying the nature of distribution.
+
+•	Trend analysis among factors such as number of ratings, number of pages, authors, publishers, language, etc.
+
+•	Technologies Involved: Python (urllib, json, csv), Tableau Dashboard and other features.
